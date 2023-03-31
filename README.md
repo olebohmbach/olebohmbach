@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Status System and the School Homepage<br>🌱 I’m currently learning PHP
+🔭 I’m currently working on the School Homepage<br>
 
 
 ## 🌐 Socials:
